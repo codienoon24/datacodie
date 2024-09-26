@@ -18,3 +18,9 @@
 * [Brightspace](https://learn.georgebrown.ca/d2l/home)
 
 ## Experiments ❗👽🧀🚙🪐
+
+## Shortcuts
+Shortcuts I use:
+* Ctrl + C (Copy)
+* Ctrl + V (Paste)
+* Win + Shift + S (Screenshot)
