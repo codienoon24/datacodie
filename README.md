@@ -15,6 +15,6 @@
 ## Links
 * [github](https://pages.github.com)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Twitter}
+* [Brightspace](https://learn.georgebrown.ca/d2l/home)
 
 ## Experiments ❗👽🧀🚙🪐
