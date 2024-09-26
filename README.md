@@ -19,8 +19,16 @@
 
 ## Experiments ❗👽🧀🚙🪐
 
-## Shortcuts
+## Keyboard Shortcuts
+
 Shortcuts I use:
 * Ctrl + C (Copy)
 * Ctrl + V (Paste)
 * Win + Shift + S (Screenshot)
+* Ctrl + F (Find)
+* Alt + Tab (Switch Application)
+
+Shortcuts I'd like to start using
+* Ctrl + Z (Undo)
+* Ctrl + A (Select All)
+* Ctrl + S (Save)
